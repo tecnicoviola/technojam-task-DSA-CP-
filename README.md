@@ -44,9 +44,9 @@
 
 <br>1.Easy questions were easy to tackle, just that third question that is missing number question was tricky one it took me time to think the algorithm of this question.</br>
 
-2. I faced challenges in question like unique combination pair whose sum is equal to X. It took me long to understand the algorithm and solved it using concept of recursion and backtracking.
+2.I faced challenges in question like unique combination pair whose sum is equal to X. It took me long to understand the algorithm and solved it using concept of recursion and backtracking.
 
-3. Identifying and fixing errors in the code, logical, syntax, or runtime errors, took lot of time.
+3.Identifying and fixing errors in the code, logical, syntax, or runtime errors, took lot of time.
 
 
 
