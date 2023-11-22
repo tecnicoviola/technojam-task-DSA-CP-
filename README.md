@@ -15,10 +15,10 @@
 
 6.Besides this, in my school days, I have also learned JAVA language, as my course subject.
 
-<br>7.I am thrilled to be here and excited to join Technojam club so that I can learn from our seniors.</br>
+7.I am thrilled to be here and excited to join Technojam club so that I can learn from our seniors.
 
 
-**HOW DID I APPROACH MY TASK.
+<br>**HOW DID I APPROACH MY TASK.</br>
 
 
 1.As i have more knowledge in DSA  than web-dev part as I have just started my Webdevlopment journey so I have chosen DSA as my working domain.
