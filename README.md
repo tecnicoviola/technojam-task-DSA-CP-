@@ -3,7 +3,7 @@
 **FIRSTLY I WOULD LIKE TO INTRODUCE MYSELF LITTLE BIT.
 
 
-<br>1.Hello Sir/Ma'am, I'm Suhani, currently a Btech Second-year student.</br>
+<br>1.Hello Sir/Ma'am, I'm Suhani, currently a Btech Second year student.</br>
 
 2.I am passionate for coding and it is fun for me as it brings exciting challenges.
 
@@ -51,7 +51,7 @@ of large number is interesting question. It took me long to think the algorithm 
 4.Writing the appropriate algorithm whose time and space complexity is less.
 5.Few medium and difficult level question left me blank.I was not getting how to start the code.
 
-<center>THANK-YOU</center>
+                     <center>THANK-YOU</center>
 
 
 
