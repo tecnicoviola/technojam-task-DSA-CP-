@@ -21,7 +21,7 @@
 <br>**HOW DID I APPROACH MY TASK.</br>
 
 
-1.As i have more knowledge in DSA  than web-dev part as I have just started my Webdevlopment journey so I have chosen DSA as my working domain.
+<br>1.As i have more knowledge in DSA  than web-dev part as I have just started my Webdevlopment journey so I have chosen DSA as my working domain.</br>
 
 2.In DSA domain I saw there are 3 section Easy, Medium, Hard.
 
