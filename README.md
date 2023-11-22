@@ -48,6 +48,9 @@ of large number is interesting question. It took me long to think the algorithm 
 
 3.Identifying and fixing errors in the code, logical, syntax, or runtime errors, took lot of time.
 
+4.Writing the appropriate algorithm whose time and space complexity is less.
+
+
 
 
 
