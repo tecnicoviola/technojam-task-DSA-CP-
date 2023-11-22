@@ -1,9 +1,9 @@
 # technojam-task-DSA-CP-
 
-<br>**FIRSTLY I WOULD LIKE TO INTRODUCE MYSELF LITTLE BIT.</br>
+**FIRSTLY I WOULD LIKE TO INTRODUCE MYSELF LITTLE BIT.
 
 
-1.Hello Sir/Ma'am, I'm Suhani, currently a Btech Second-year student.
+<br>1.Hello Sir/Ma'am, I'm Suhani, currently a Btech Second-year student.</br>
 
 2.I am passionate for coding and it is fun for me as it brings exciting challenges.
 
