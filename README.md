@@ -44,7 +44,7 @@
 
 1.Easy questions were easy to tackle, just that third question that is missing number question was tricky one it took me time to think the algorithm of this question.
 
-2. I faced challenges in question like unique combination pair whose sum is equal to X. It took me long to understand the algorithm and solved it using concept of recursion and backtracking. n 
+2. I faced challenges in question like unique combination pair whose sum is equal to X. It took me long to understand the algorithm and solved it using concept of recursion and backtracking. 
 
 
 
