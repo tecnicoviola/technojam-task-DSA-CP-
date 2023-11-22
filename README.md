@@ -37,10 +37,10 @@
 
 7.Last section based on difficult type of question, with very good question.
 
-8.I have learnt new concept that is "State of      Eratosthenes" to solve one of the question in which it has asked prime number between given interval.
+8.I have learnt new concept that is "State of Eratosthenes" to solve one of the question in which it has asked prime number between given interval, this concept gives more optimize solution hence decrease space and time complexity.
 
 
-**CHALLENGES I FACED WHILE SOLVING THE CODES GIVEN IN THE TASK.
+<br>**CHALLENGES I FACED WHILE SOLVING THE CODES GIVEN IN THE TASK.</br>
 
 1.Easy questions were easy to tackle, just that third question that is missing number question was tricky one it took me time to think the algorithm of this question.
 
