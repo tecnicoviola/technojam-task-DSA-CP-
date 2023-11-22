@@ -2,14 +2,13 @@
 
 **FIRSTLY I WOULD LIKE TO INTRODUCE MYSELF LITTLE BIT. 
 
-1.Hello Sir/Ma'am Im Suhani,currently I am Btech Second year student.-
-2.I am passionate for coding and it is fun for me as it brings exciting challenges.-
-3.I have started my coding jorney from the middle of the first year with the exciting topic that is "Data structure and algorithm".- 
-4.Made my github profile so that I can be consistent with my coding journey , on twiteer i follow 100 days of code competition.-
-5.From last 1 months after the completion of my DSA journey I started learning Web devlopment.-
-6.Beside this in my school days I have also learned JAVA language, as my course subject.-
-7.I am thrilled to be here and excited to join technojam club so that I can learn from our senior.-
-
+Hello Sir/Ma'am, I'm Suhani, currently a Btech Second-year student.
+I am passionate for coding and it is fun for me as it brings exciting challenges.
+I have started my coding journey from the middle of the first year with the exciting topic that is "Data structure and algorithm".
+Made my GitHub profile so that I can be consistent with my coding journey, on Twitter, I follow 100 days of code competition.
+From the last 1 month, after the completion of my DSA journey, I started learning Web development.
+Besides this, in my school days, I have also learned JAVA language, as my course subject.
+I am thrilled to be here and excited to join Technojam club so that I can learn from our seniors.
 
 **HOW DID I APPROACH MY TASK.
 
