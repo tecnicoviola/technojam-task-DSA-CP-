@@ -32,8 +32,8 @@
 
 5.Then there is medium type question in this i faced few challenges in understanding the question.
 
-6.In this medium section few questions were challenging and I have learned new concept like tower of hanoi, factorial of   
-   large number is interesting question. It took me long to think the algorithm of this question.
+6.In this medium section few questions were challenging and I have learned new concept like tower of hanoi, factorial 
+of large number is interesting question. It took me long to think the algorithm of this question.
 
 7.Last section based on difficult type of question, with very good question.
 
