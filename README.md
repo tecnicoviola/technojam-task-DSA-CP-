@@ -4,7 +4,7 @@
 
 1.Hello Sir/Ma'am, I'm Suhani, currently a Btech Second-year student.
 2.I am passionate for coding and it is fun for me as it brings exciting challenges.
-I have started my coding journey from the middle of the first year with the exciting topic that is "Data structure and algorithm".
+3.I have started my coding journey from the middle of the first year with the exciting topic that is "Data structure and algorithm".
 Made my GitHub profile so that I can be consistent with my coding journey, on Twitter, I follow 100 days of code competition.
 From the last 1 month, after the completion of my DSA journey, I started learning Web development.
 Besides this, in my school days, I have also learned JAVA language, as my course subject.
