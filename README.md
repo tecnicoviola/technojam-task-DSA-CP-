@@ -51,7 +51,8 @@ of large number is interesting question. It took me long to think the algorithm 
 4.Writing the appropriate algorithm whose time and space complexity is less.
 5.Few medium and difficult level question left me blank.I was not getting how to start the code.
 
-                                             THANK-YOU
+
+<p style="text-align:center"><a href="THANK-YOU"></a></p>
 
 
 
