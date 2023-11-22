@@ -15,8 +15,7 @@
 
 6.Besides this, in my school days, I have also learned JAVA language, as my course subject.
 
-7.I am thrilled to be here and excited to join Technojam club so that I can learn from our seniors.
-
+<br>7.I am thrilled to be here and excited to join Technojam club so that I can learn from our seniors.</br>
 
 
 **HOW DID I APPROACH MY TASK.
