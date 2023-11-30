@@ -11,7 +11,6 @@ void findMissing(int arr[], int num)
 	for(i = 0; i < num; i++){
 	temp[arr[i] - 1] = 1;
 	}
-	int ans;
 	for (i = 0; i <= num ; i++) {
 		if (temp[i] == 0)
 			ans = i + 1;
